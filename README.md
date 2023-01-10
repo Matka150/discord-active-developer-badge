@@ -43,7 +43,7 @@ If you dont have a community enabled server which you have permissions to.
 Watch <a href="https://youtu.be/w2gaDmb88eg?t=61" target="_blank">this</a> tutorial.
 
 ### Adding the bot and activating it:
-1. Copy the link from the console (bot's console that you ran earlier).
+1. Copy the link from the console (bot's console that you ran earlier) and paste it in your browser.
 2. Choose your server from the list and authorize it.
 3. On your server type `/activate`. The bot will respond with "Got it!".
 4. Wait 24 hours.
