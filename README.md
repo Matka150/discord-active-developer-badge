@@ -47,6 +47,6 @@ Watch <a href="https://youtu.be/w2gaDmb88eg?t=61" target="_blank">this</a> tutor
 2. Choose your server from the list and authorize it.
 3. On your server type `/activate`. The bot will respond with "Got it!".
 4. Wait 24 hours.
-5. Go to <a href="https://discord.com/developers/active-developer" target="_blank">https://discord.com/developers/active-developer</a> and choose your bot and confirm.
+5. Go to <a href="https://discord.com/developers/active-developer" target="_blank">https://discord.com/developers/active-developer</a>,choose your bot and confirm.
 
 ### Congrats! Make sure to run the bot and do <a href="#adding-the-bot-and-activating-it">step 3</a> once a month to keep your badge.
